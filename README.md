@@ -8,4 +8,4 @@
 4. After adding , run the bot.py file and then you're ready to use the bot. 
 
 
-# I'm actually in search of a server to host this bot , suggeestions are always welcomed :)
+# I'm actually in search of a server to host this bot , suggestions are always welcomed :)
